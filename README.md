@@ -21,7 +21,7 @@ My name is Ashish Kumar.I am currently pursuing B.tech in Electrical Engineering
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudojarvis)](https://git.io/streak-stats)
 
-### Technologies
+### Technologies I Know
 
 <img src="https://img.shields.io/badge/-c%2B%2B-yellowgreen"> <img src="https://img.shields.io/badge/-python-lightgrey"> <img src="https://img.shields.io/badge/-Javascript-blue"> <img src="https://img.shields.io/badge/-HTML-yellowgreen"> <img src="https://img.shields.io/badge/-CSS-red"> <img src="https://img.shields.io/badge/-Bootstrap-green">
 
