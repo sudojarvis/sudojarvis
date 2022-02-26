@@ -1,5 +1,5 @@
 ## Hi there, I'm Ashish 👋
-#### Programmer | Contributor | Leetcoder 
+#### Programmer | Contributor 
 
 <img align='right' src="https://img.icons8.com/material-outlined/250/000000/github.png"/>
 
