@@ -4,7 +4,7 @@
 <img align='right' src="https://img.icons8.com/material-outlined/250/000000/github.png"/>
 
 ### About me :
-My name is Ashish Kumar.I am currently pursuing B.tech in Electrical Engineering at IIT Jodhpur.
+My name is Ashish Kumar. I am currently pursuing B.tech in Electrical Engineering at IIT Jodhpur.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning django.
